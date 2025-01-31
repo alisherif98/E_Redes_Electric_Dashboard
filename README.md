@@ -1,4 +1,4 @@
-#⚡ E-Redes Dashboard
+# ⚡ E-Redes Dashboard
 This E-Redes Dashboard provides an interactive visualization of energy consumption trends across different regions, municipalities, and time periods. The dashboard helps in monitoring and analyzing active energy distribution to support data-driven decision-making.
 ## Features:
 ### Energy Overview: Displays total, minimum, average, and maximum active energy.
